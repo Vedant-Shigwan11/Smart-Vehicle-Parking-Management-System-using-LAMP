@@ -1,1 +1,0 @@
-# Smart-Vehicle-Parking-Management-System-using-LAMP-
