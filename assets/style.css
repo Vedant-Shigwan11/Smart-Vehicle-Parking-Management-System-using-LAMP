@@ -1,0 +1,37 @@
+body.app-body {
+    background: linear-gradient(180deg, #f3f7fb 0%, #eef2f7 100%);
+    color: #1f2937;
+    min-height: 100vh;
+}
+
+.app-navbar {
+    background: linear-gradient(135deg, #0f172a, #1d4ed8);
+}
+
+.dashboard-card {
+    border-left: 4px solid #1d4ed8;
+    border-radius: 1rem;
+}
+
+.slot-card {
+    border-radius: 1rem;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.slot-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 1rem 2rem rgba(15, 23, 42, 0.08);
+}
+
+.price-preview {
+    background: #eff6ff;
+    border: 1px solid #bfdbfe;
+}
+
+.table > :not(caption) > * > * {
+    vertical-align: middle;
+}
+
+.card {
+    border-radius: 1rem;
+}
