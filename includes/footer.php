@@ -2,7 +2,7 @@
 
     <footer class="border-top bg-white py-3">
         <div class="container text-center text-muted small">
-            Smart Parking Booking System for XAMPP | Apache + MySQL + PHP
+            Smart Parking Booking System for Linux | Apache + MySQL + PHP
         </div>
     </footer>
 

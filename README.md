@@ -108,6 +108,7 @@ admin login
 http://localhost/Smart-Vehicle-Parking-System-using-LAMP/admin/login.php
 ```
 
+ubuntu server start : ssh -i parking-key-new.pem ubuntu@51.20.87.204
 ## Main Workflow
 
 ### User Side
